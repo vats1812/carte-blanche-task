@@ -4,8 +4,6 @@ To build a web interface to upload the attached csv file and display data visual
 
 ## Demo
 
-Insert gif or link to demo
-
 https://task.vatspatel.in/
 
 ## Documentation
